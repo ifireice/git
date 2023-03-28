@@ -416,7 +416,7 @@ To github.com:ifireiceya/MyFirstRepo.git
 
 #TODO
 Дописать 
-- squash
+- squash - схлапывание коммитов в один 
 - revert
 - rebase
 - cherry-pick
