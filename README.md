@@ -413,3 +413,10 @@ To github.com:ifireiceya/MyFirstRepo.git
 
 Репозиторий хранится в `ifireice/git` , а изменения у нас делает пользователь `ifireiceya`
 
+
+#TODO
+Дописать 
+- squash
+- revert
+- rebase
+- cherry-pick
