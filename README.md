@@ -422,3 +422,5 @@ To github.com:ifireiceya/MyFirstRepo.git
 - revert
 - rebase
 - cherry-pick
+
+ИС-12
