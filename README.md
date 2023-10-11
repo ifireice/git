@@ -422,3 +422,4 @@ To github.com:ifireiceya/MyFirstRepo.git
 - revert
 - rebase
 - cherry-pick
+"Мы изменили данный файл, группа ИС_22" 
