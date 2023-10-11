@@ -422,3 +422,5 @@ To github.com:ifireiceya/MyFirstRepo.git
 - revert
 - rebase
 - cherry-pick
++  G0=354  40==K9  D8;5  3@C??  !2 2  
+ 
