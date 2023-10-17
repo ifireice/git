@@ -422,4 +422,5 @@ To github.com:ifireiceya/MyFirstRepo.git
 - revert
 - rebase
 - cherry-pick
-"print('Hello)"
+
+\n"print('Hello')"
