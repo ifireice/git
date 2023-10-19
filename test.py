@@ -1,2 +1,1 @@
 "print('WELCOME TO THE RUSSIA')" 
-"print('WELCOME TO THE RUSSIA')" 
