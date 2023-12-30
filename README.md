@@ -415,6 +415,7 @@ To github.com:ifireiceya/MyFirstRepo.git
 
 Репозиторий хранится в `ifireice/git` , а изменения у нас делает пользователь `ifireiceya`
 
+Делаю вид, что что-то исправил.
 
 #TODO
 Дописать 
