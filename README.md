@@ -2,6 +2,8 @@
 еще одна правка 
 ## Про Git
 
+заметное отличие
+
 Существует несколько систем контроля версий: Git, Subversion, Team Foundation Server, Mercurial. Сегодня познакомимся и погорим о Git — [самой популярной](https://survey.stackoverflow.co/2022/#version-control-version-control-system) системой, ей пользуются более 90% разработчиков.
 
 Git появился 7 апреля 2005 года и был создан для управления разработкой ядра Linux. Кстати, создал его тот самый [Линусом Торвальдсом](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81,_%D0%9B%D0%B8%D0%BD%D1%83%D1%81), а сегодня его развитием и поддержкой занимается [Джунио Хамано](https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B0%D0%BD%D0%BE,_%D0%94%D0%B6%D1%83%D0%BD%D0%B8%D0%BE).
