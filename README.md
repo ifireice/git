@@ -1,6 +1,7 @@
 Добавили изменения для ветки reset
 еще одна правка 
 ## Про Git
+## интересно
 
 Существует несколько систем контроля версий: Git, Subversion, Team Foundation Server, Mercurial. Сегодня познакомимся и погорим о Git — [самой популярной](https://survey.stackoverflow.co/2022/#version-control-version-control-system) системой, ей пользуются более 90% разработчиков.
 
