@@ -422,3 +422,5 @@ To github.com:ifireiceya/MyFirstRepo.git
 - revert
 - rebase
 - cherry-pick
+
+В учебных целях используем репозиторий из этой статьи на GitHub. Там нужно исправить опечатку, которую нашли в статье. Например, вот эту опечатку.
