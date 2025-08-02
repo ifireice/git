@@ -135,7 +135,7 @@ $
 
 **Пул реквест** - pull request PR (пиар) (он же merge request MR(мр)) - 
 
-**Форк** (Fork) - 
+**Форк** (Fkrk) - Fork
 
  
 
