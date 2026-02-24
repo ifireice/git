@@ -36,7 +36,7 @@ Git — это распределённая система управления 
 
 Для безопасной работы GitHub поддерживает два сетевых протокола [HTTPS](https://ru.wikipedia.org/wiki/HTTPS) и [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) и вся работа с сервисом происходит через один из них.
 
-Работать с GitHub будем через терминал по SSH. Для этого мы один раз сгенирируем специальный ключи, добавим один из них в наш аккаунт на GitHub.
+Работать с GitHub будем через терминал по SSH. Для этого мы один раз сгенерируем специальный ключи, добавим один из них в наш аккаунт на GitHub.
 
 Можно работать и через HTTPS, но нужно будет каждый раз вводить пароль и специальный [token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
