@@ -417,7 +417,7 @@ To github.com:ifireiceya/MyFirstRepo.git
 
 
 #TODO
-Дописать 
+Дописать: 
 - squash - схлапывание коммитов в один 
 - revert
 - rebase
